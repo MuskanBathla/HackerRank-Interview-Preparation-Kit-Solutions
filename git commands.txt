@@ -1,0 +1,6 @@
+git init : to initialize repo
+git remote add <server_name> <link> : to connect repo with server
+git pull <server_name> <branch> : to download files from server
+git add <filename(or . for all files)> : to stage the changed files
+git commit -m <message in double quotes> : finalise all changes
+git push <server_name> <branch> : to upload last commit
