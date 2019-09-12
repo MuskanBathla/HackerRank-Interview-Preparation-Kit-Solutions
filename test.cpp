@@ -13,7 +13,9 @@ int z;
 
 int main()
 { struct test t;
-cin>>t.getz();
-cout<<t.getz();
+int d;
+d=t.getz();
+cin>>d;
+cout<<d;
 return 0;
 }
